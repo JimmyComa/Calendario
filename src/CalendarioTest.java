@@ -3,7 +3,7 @@ public class CalendarioTest {
         Calendario myCalendario = new Calendario();
 
         myCalendario.giorno = 31;
-        myCalendario.mese = "novembre".toLowerCase();
+        myCalendario.mese = "febbraio".toLowerCase();
         myCalendario.viewCalendar();
     }
 }
